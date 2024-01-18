@@ -1,0 +1,12 @@
+{
+  "name": "web-crawler-nodejs",
+  "version": "1.0.0",
+  "description": "Web crawler",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Son Vo",
+  "license": "ISC"
+}
